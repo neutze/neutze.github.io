@@ -1,8 +1,6 @@
 title: Such improve, so amaze - Wow! 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Android Engineer and Architect with over 6 years of track record in building mobile products to enter new markets and scale to various countries across the globe. Strong passion for creating user-centric products by considering limitations and capabilities of software implementation.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
